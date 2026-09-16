@@ -53,11 +53,11 @@ La aplicación cuenta con tres pantallas principales interconectadas:
 
 | Rol | Hex |
 |-----|-----|
-| Fondo principal | `#F5F1E3` |
-| Superficie (cards, inputs) | `#FFFFFF` |
-| Bordes | `#DDDBCB` |
-| Texto | `#050505` |
-| Acento | `#1B9AAA` |
+| Fondo principal | `##FFFFFF` |
+| Superficie (cards, inputs) | `##F5F1E3` |
+| Bordes | `##1B9AAA` |
+| Texto | `##050505` |
+| Acento | `##DDDBCB` |
 
 ---
 
